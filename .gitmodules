@@ -7,3 +7,6 @@
 [submodule "yolov3-tf2"]
 	path = yolov3-tf2
 	url = git@github.com:edurenye/yolov3-tf2.git
+[submodule "yolov5"]
+	path = yolov5
+	url = git@github.com:edurenye/yolov5.git
