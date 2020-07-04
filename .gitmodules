@@ -4,3 +4,6 @@
 [submodule "drafts/keras_yolo3"]
 	path = drafts/keras_yolo3
 	url = git@github.com:edurenye/keras-yolo3.git
+[submodule "yolov3-tf2"]
+	path = yolov3-tf2
+	url = git@github.com:edurenye/yolov3-tf2.git
