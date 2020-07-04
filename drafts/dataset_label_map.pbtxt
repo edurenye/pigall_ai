@@ -1,0 +1,12 @@
+item {
+  name: "crosswalk"
+  id: 1
+}
+item {
+  name: "pedestrian_traffic_light"
+  id: 2
+}
+item {
+  name: "traffic_light"
+  id: 3
+}
